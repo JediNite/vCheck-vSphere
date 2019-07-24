@@ -2,7 +2,7 @@ $Title = "Network redundancy lost"
 $Header = "Network redundancy lost: [count]"
 $Comments = "The following Hosts have lost network redundancy"
 $Display = "Table"
-$Author = "Olivier TABUT"
+$Author = "Olivier TABUT,Jason Gersekowski"
 $PluginVersion = 1.2
 $PluginCategory = "vSphere"
 
